@@ -1,0 +1,98 @@
+﻿<Properties StartupConfiguration="{52F078DF-D81D-4F84-BBAC-A37581BF3439}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProniaNew/Controllers/AuthController.cs">
+    <Files>
+      <File FileName="ProniaNew/Program.cs" Line="72" Column="11" />
+      <File FileName="ProniaNew/Models/BaseEntity.cs" />
+      <File FileName="ProniaNew/Models/Category.cs" />
+      <File FileName="ProniaNew/Models/ProductCategory.cs" />
+      <File FileName="ProniaNew/Models/ProductImage.cs" />
+      <File FileName="ProniaNew/Models/Setting.cs" />
+      <File FileName="ProniaNew/Models/Slider.cs" />
+      <File FileName="ProniaNew/Controllers/HomeController.cs" Line="16" Column="22" />
+      <File FileName="ProniaNew/Controllers/FlowerController.cs" Line="83" Column="50" />
+      <File FileName="ProniaNew/Extensions/FileExtension.cs" />
+      <File FileName="ProniaNew/ExtensionServices/Interfaces/IFileService.cs" />
+      <File FileName="ProniaNew/ExtensionServices/Implements/FileService.cs" />
+      <File FileName="ProniaNew/Services/LayoutService.cs" />
+      <File FileName="ProniaNew/Services/ServiceRegistration.cs" Line="14" Column="55" />
+      <File FileName="ProniaNew/Services/Interfaces/ICategoryService.cs" />
+      <File FileName="ProniaNew/Services/Interfaces/IProductService.cs" />
+      <File FileName="ProniaNew/Services/Interfaces/ISliderService.cs" />
+      <File FileName="ProniaNew/Services/Implements/CategoryService.cs" />
+      <File FileName="ProniaNew/Services/Implements/ProductService.cs" />
+      <File FileName="ProniaNew/Services/Implements/SliderService.cs" />
+      <File FileName="ProniaNew/Views/Home/Index.cshtml" />
+      <File FileName="ProniaNew/Views/Flower/Index.cshtml" />
+      <File FileName="ProniaNew/Views/Flower/Details.cshtml" Line="461" Column="8" />
+      <File FileName="ProniaNew/Views/Shared/_Layout.cshtml" />
+      <File FileName="ProniaNew/Views/Shared/_BasketPartial.cshtml" />
+      <File FileName="ProniaNew/Views/Shared/_ProductPartial.cshtml" />
+      <File FileName="ProniaNew/Views/Shared/_ProductsFilterPartial.cshtml" />
+      <File FileName="ProniaNew/Views/Shared/Components/Footer/Default.cshtml" />
+      <File FileName="ProniaNew/Views/Shared/Components/Header/Default.cshtml" Line="1" Column="1" />
+      <File FileName="ProniaNew/ViewModels/BasketVMs/BasketItemProductVM.cs" />
+      <File FileName="ProniaNew/ViewModels/BasketVMs/BasketItemVM.cs" />
+      <File FileName="ProniaNew/ViewModels/HomeVMs/HomeVm.cs" />
+      <File FileName="ProniaNew/ViewModels/ProductVMs/CreateProductVM.cs" />
+      <File FileName="ProniaNew/ViewModels/ProductVMs/FilterVMs.cs" />
+      <File FileName="ProniaNew/ViewModels/ProductVMs/GetShopVM.cs" />
+      <File FileName="ProniaNew/ViewModels/ProductVMs/UpdateProductGETVM.cs" />
+      <File FileName="ProniaNew/ViewModels/ProductVMs/UpdateProductVM.cs" />
+      <File FileName="ProniaNew/ViewModels/SliderVMs/CreateSliderVM.cs" />
+      <File FileName="ProniaNew/ViewModels/SliderVMs/UpdateSliderVM.cs" />
+      <File FileName="ProniaNew/ViewComponents/FooterViewComponent.cs" />
+      <File FileName="ProniaNew/Areas/Manage/Controllers/CategoryController.cs" Line="38" Column="2" />
+      <File FileName="ProniaNew/Areas/Manage/Controllers/ProductController.cs" Line="149" Column="2" />
+      <File FileName="ProniaNew/Areas/Manage/Controllers/SliderController.cs" Line="104" Column="1" />
+      <File FileName="ProniaNew/Areas/Manage/Views/Category/Create.cshtml" />
+      <File FileName="ProniaNew/Areas/Manage/Views/Category/Index.cshtml" />
+      <File FileName="ProniaNew/Areas/Manage/Views/Product/Index.cshtml" />
+      <File FileName="ProniaNew/Areas/Manage/Views/Product/Create.cshtml" />
+      <File FileName="ProniaNew/Areas/Manage/Views/Product/Update.cshtml" />
+      <File FileName="ProniaNew/Areas/Manage/Views/Slider/Index.cshtml" />
+      <File FileName="ProniaNew/Areas/Manage/Views/Slider/Update.cshtml" />
+      <File FileName="ProniaNew/Areas/Manage/Views/Slider/Create.cshtml" />
+      <File FileName="ProniaNew/Areas/Manage/Views/Shared/_AdminLayout.cshtml" Line="334" Column="19" />
+      <File FileName="ProniaNew/Areas/Manage/Views/Shared/_ValidationPartial.cshtml" />
+      <File FileName="ProniaNew/Areas/Manage/Views/_ViewImports.cshtml" Line="5" Column="17" />
+      <File FileName="ProniaNew/Views/_ViewImports.cshtml" Line="8" Column="27" />
+      <File FileName="ProniaNew/appsettings.json" Line="14" Column="34" />
+      <File FileName="ProniaNew/DataAccess/ProniaDbContext.cs" Line="27" Column="2" />
+      <File FileName="ProniaNew/wwwroot/Admin/vendor/bootstrap/js/bootstrap.bundle.js" />
+      <File FileName="ProniaNew/Controllers/AuthController.cs" Line="115" Column="8" />
+      <File FileName="ProniaNew/Models/AppUser.cs" Line="13" Column="2" />
+      <File FileName="ProniaNew/ViewComponents/BasketViewComponent.cs" />
+      <File FileName="ProniaNew/ViewModels/AuthVMs/LoginVM.cs" />
+      <File FileName="ProniaNew/ViewModels/AuthVMs/RegisterVM.cs" />
+      <File FileName="ProniaNew/Views/Auth/Login.cshtml" />
+      <File FileName="ProniaNew/Views/Auth/Register.cshtml" />
+      <File FileName="ProniaNew/Views/Shared/_ValidationPartial.cshtml" />
+      <File FileName="ProniaNew/Views/Shared/Components/Basket/Default.cshtml" />
+      <File FileName="ProniaNew/wwwroot/Admin/vendor/fontawesome-free/metadata/icons.yml" />
+      <File FileName="ProniaNew/ExtensionServices/Implements/EmailService.cs" Line="8" Column="40" />
+      <File FileName="ProniaNew/ExtensionServices/Interfaces/IEmailService.cs" Line="2" Column="50" />
+      <File FileName="ProniaNew/Models/Product.cs" Line="4" Column="28" />
+      <File FileName="ProniaNew/Models/ProductComment.cs" Line="2" Column="28" />
+      <File FileName="ProniaNew/ViewModels/ProductVMs/AddCommentToProductVM.cs" Line="2" Column="43" />
+      <File FileName="ProniaNew/ViewModels/UserVMs/UserAndRolesVM.cs" Line="2" Column="40" />
+      <File FileName="ProniaNew/Areas/Manage/Controllers/UserController.cs" Line="43" Column="10" />
+      <File FileName="ProniaNew/Areas/Manage/Views/User/Index.cshtml" Line="45" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProniaNew" expanded="True">
+            <Node name="ProniaNew" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ProniaNew PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
